@@ -1,0 +1,3 @@
+class Behaviour
+
+end
